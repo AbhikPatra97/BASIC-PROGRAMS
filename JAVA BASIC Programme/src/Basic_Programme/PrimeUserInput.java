@@ -1,4 +1,4 @@
-package prime;
+package Basic_Programme;
 import java.util.Scanner;
 public class PrimeUserInput {
 

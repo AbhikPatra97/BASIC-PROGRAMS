@@ -1,4 +1,4 @@
-package palindrome;
+package Basic_Programme;
 
 public class palindrome {
 

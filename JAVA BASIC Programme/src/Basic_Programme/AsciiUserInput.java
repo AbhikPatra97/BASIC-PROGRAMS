@@ -1,4 +1,4 @@
-package ASCII;
+package Basic_Programme;
 import java.util.Scanner;
 public class AsciiUserInput {
 

@@ -1,4 +1,4 @@
-package factorial;
+package Basic_Programme;
 
 public class Factorial {
 

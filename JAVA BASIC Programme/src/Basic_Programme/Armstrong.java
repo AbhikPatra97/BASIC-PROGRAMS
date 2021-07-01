@@ -1,4 +1,4 @@
-package ArmstrongNumber;
+package Basic_Programme;
 
 public class Armstrong {
 

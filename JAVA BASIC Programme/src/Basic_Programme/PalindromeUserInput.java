@@ -1,8 +1,6 @@
-package ArmstrongNumber;
-
+package Basic_Programme;
 import java.util.Scanner;
-
-public class ArmstrongNumber {
+public class PalindromeUserInput {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -13,17 +11,17 @@ public class ArmstrongNumber {
 		
 		int temp=n;
 		int remainder=0;
-		double result=0;
+		int result=0;
 		
 		while(n>0) {
 			remainder=n%10;
-			result=result+Math.pow(remainder,3);
+			result=(result*10)+remainder;
 			n=n/10;
 		}
 		if(result==temp)
-			System.out.println("Armstrong");
+			System.out.println("Palindrome");
 		else
-			System.out.println("not Armstrong");
+			System.out.println("not Palindrome");
 	}
 
 }

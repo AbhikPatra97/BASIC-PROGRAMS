@@ -1,4 +1,4 @@
-package ASCII;
+package Basic_Programme;
 
 public class Ascii {
 

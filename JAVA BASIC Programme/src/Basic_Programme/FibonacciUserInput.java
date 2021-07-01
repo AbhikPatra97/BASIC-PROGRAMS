@@ -1,4 +1,4 @@
-package fibonacci;
+package Basic_Programme;
 import java.util.Scanner;
 public class FibonacciUserInput {
 
